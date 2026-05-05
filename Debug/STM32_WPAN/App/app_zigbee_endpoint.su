@@ -1,0 +1,9 @@
+../STM32_WPAN/App/app_zigbee_endpoint.c:102:6:APP_ZIGBEE_ApplicationInit	8	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:128:6:APP_ZIGBEE_ApplicationStart	8	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:145:6:APP_ZIGBEE_ConfigEndpoints	40	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:190:6:APP_ZIGBEE_ConfigGroupAddr	4	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:202:6:APP_ZIGBEE_GetStartupConfig	24	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:235:6:APP_ZIGBEE_SetNewDevice	48	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:249:6:APP_ZIGBEE_PrintApplicationInfo	16	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:278:6:APP_BSP_Button1Action	96	static
+../STM32_WPAN/App/app_zigbee_endpoint.c:312:6:APP_ZIGBEE_SendIRState	32	static
